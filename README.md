@@ -1,2 +1,9 @@
 # project3
-simple site
+
+См. файлы 
+
+"Пояснительная записка.docx"
+"slides.pptx"
+"Описание.docx"
+"ТЗ.docx"
+
